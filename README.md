@@ -16,7 +16,12 @@ Hey there! I'm <span style="color:blue;">Hasan Mohamed Hasan</span>, a communica
 <div style="text-align:center;">
   <hr>
 </div>
-<div align="center">
+<div align="center" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;"
+>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hasan2&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Langs" style="margin: 20px;" />
   <div style="margin: 20px;">
