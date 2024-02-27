@@ -2,7 +2,7 @@
 Hey there! I'm <span style="color:blue;">Hasan Mohamed Hasan</span>, a communications and computer engineering student with a passion for software development. My journey in technology has led me to explore various languages and frameworks, including <span style="color:green;">C</span>, <span style="color:green;">Python</span>, <span style="color:green;">JavaScript</span> (my favorite!), and front-end tools like <span style="color:red;">React</span> and <span style="color:red;">Svelte-Kit</span>. I love tackling challenges and turning ideas into reality through code. Let's connect and build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://dev.to/2hasan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="2hasan2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasan ragab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan ragab" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hasan_mohamed_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hasan_mohamed_hasan" height="30" width="40" /></a>
