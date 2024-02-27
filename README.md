@@ -1,7 +1,5 @@
 ### Just Code .
-My name is Hasan Mohamed Hasan.
-I'm a Software Engineer.
-I love playing with JavaScript and Python.
+Hey there! I'm <span style="color:blue;">Hasan Mohamed Hasan</span>, a communications and computer engineering student with a passion for software development. My journey in technology has led me to explore various languages and frameworks, including <span style="color:green;">C</span>, <span style="color:green;">Python</span>, <span style="color:green;">JavaScript</span> (my favorite!), and front-end tools like <span style="color:red;">React</span> and <span style="color:red;">Svelte-Kit</span>. I love tackling challenges and turning ideas into reality through code. Let's connect and build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
