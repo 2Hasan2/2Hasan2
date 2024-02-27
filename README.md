@@ -16,12 +16,14 @@ Hey there! I'm <span style="color:blue;">Hasan Mohamed Hasan</span>, a communica
 <div style="text-align:center;">
   <hr>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hasan2&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2hasan2&theme=dark" alt="Streak" />
-</p>
-<div style="text-align:center;">
-  <hr>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2hasan2&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Langs" style="margin-right: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2hasan2&theme=dark" alt="Streak" style="margin-left: 20px;" />
+  </p>
+  <div style="text-align:center; margin-top: 20px; margin-bottom: 20px;">
+    <hr>
+  </div>
 </div>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2Hasan2&style=for-the-badge&color=ff0000" alt="Profile views in 2023" />
