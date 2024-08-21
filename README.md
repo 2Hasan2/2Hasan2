@@ -1,5 +1,8 @@
-### Just Code .
-Hey there! I'm <span style="color:blue;">Hasan Mohamed Hasan</span>, a communications and computer engineering student with a passion for software development. My journey in technology has led me to explore various languages and frameworks, including <span style="color:green;">C</span>, <span style="color:green;">Python</span>, <span style="color:green;">JavaScript</span> (my favorite!), and front-end tools like <span style="color:red;">React</span> and <span style="color:red;">Svelte-Kit</span>. I love tackling challenges and turning ideas into reality through code. Let's connect and build something amazing together!
+### Hasan Outh
+In brightest code, in midnight snack,
+No bug shall make my sanity crack.
+Let those who fear a code that’s whack
+Beware my power—Hasan’s hack!
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
