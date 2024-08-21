@@ -1,8 +1,8 @@
 ### Hasan Outh
--In brightest code, in midnight snack,
--No bug shall make my sanity crack.
--Let those who fear a code that’s whack
--Beware my power—Hasan’s hack!
+- In brightest code, in midnight snack,
+- No bug shall make my sanity crack.
+- Let those who fear a code that’s whack
+- Beware my power—Hasan’s hack!
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
